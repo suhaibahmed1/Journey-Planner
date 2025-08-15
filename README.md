@@ -1,5 +1,4 @@
-﻿# Journey-Planner
-#  Journey Planner
+# 🌍 Journey Planner
 
 A full-stack **Tour Management Website** where users can explore **Pakistan tours** and **international tours**, and contact the agency via a form.
 
