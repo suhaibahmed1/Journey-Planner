@@ -1,5 +1,5 @@
 ﻿# Journey-Planner
-# 🌍 Journey Planner
+#  Journey Planner
 
 A full-stack **Tour Management Website** where users can explore **Pakistan tours** and **international tours**, and contact the agency via a form.
 
@@ -63,6 +63,7 @@ http://localhost:3000
 ## 📌 Note
 This version does **not** require MongoDB — tours are fetched from static or API-based sources.
 If you want the MongoDB version, it will be provided in another repo named as Journey-Planner-Pro
+
 
 
 
